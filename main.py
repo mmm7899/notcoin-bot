@@ -6,7 +6,7 @@ import aiohttp
 import json
 
 # ================== تنظیمات ==================
-TOKEN = 8930543418:AAFT5AACwt9fIpzjhlWr8kgfC-RBtcuutcM
+TOKEN = "8930543418:AAFT5AACwt9fIpzjhlWr8kgfC-RBtcuutcM"
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
